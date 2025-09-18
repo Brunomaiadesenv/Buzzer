@@ -1,2 +1,3 @@
 # Buzzer
 Documentação do Projeto: Semáforo com Buzzer e Arduino
+Este projeto simula um semáforo utilizando três LEDs (vermelho, amarelo e verde) e um buzzer ativo para sinalização sonora. O Arduino controla a sequência de cores, com tempos definidos para cada estágio. No verde, o buzzer emite bipes intermitentes; no vermelho, um som contínuo é reproduzido. O buzzer opera em modo push-pull para maior volume, usando dois pinos digitais. O circuito foi montado em uma protoboard com resistores de 220Ω para proteção dos LEDs. O código foi desenvolvido para alternar entre os estados de forma clara e eficiente, integrando conceitos de eletrônica e programação. Ideal para iniciativas educacionais e protótipos de sinalização acessível.
